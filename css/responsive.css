@@ -1,0 +1,85 @@
+@media(max-width:575px) {
+    .filture button {
+        padding: 5px;
+        font-size: 14px;
+    }
+}
+
+@media(max-width:767px) {
+    #stylelust_service .style_support_items {
+        margin-bottom: 18px;
+    }
+
+
+    .item_overlay span {
+        font-size: 16px;
+    }
+
+    .item_overlay h3 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        font-weight: 500;
+    }
+
+    .item_overlay a {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+
+    .ftr_logo,
+    .ftr_menu,
+    .ftr_right {
+        text-align: center;
+    }
+
+    .ftr_contact {
+        text-align: center;
+    }
+
+    .ftr_contact ul li {
+        text-align: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .ftr_right .footer_social_link {
+        text-align: center;
+    }
+
+    #microsoft_surface .upcoming_item .upcoming_content {
+        padding-top: 25px;
+    }
+
+    .blog_content {
+        margin-bottom: 25px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .item_overlay span {
+        font-size: 20px;
+    }
+
+    .item_overlay h3 {
+        font-size: 23px;
+        padding-bottom: 20px;
+        font-weight: 500;
+    }
+
+    .item_overlay a {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .upcoming_content ul .box {
+        width: 65px;
+        height: 65px;
+
+
+    }
+
+}
